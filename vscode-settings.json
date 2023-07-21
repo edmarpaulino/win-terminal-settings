@@ -1,0 +1,131 @@
+{
+  "42header.email": "edpaulin@student.42sp.org.br",
+  "42header.username": "edpaulin",
+  "terminal.integrated.profiles.linux": {
+    "bash": {
+      "path": "/usr/bin/bash"
+    },
+    "zsh": {
+      "path": "/usr/bin/zsh"
+    }
+  },
+  "diffEditor.wordWrap": "on",
+  "explorer.confirmDelete": true,
+  "explorer.confirmDragAndDrop": true,
+  "markdown-preview-enhanced.previewTheme": "github-light.css",
+  "editor.fontLigatures": false,
+  "cSpell.userWords": [
+    "booleano",
+    "chdir",
+    "closedir",
+    "cmds",
+    "commita",
+    "coor",
+    "edpaulin",
+    "envp",
+    "execve",
+    "fclean",
+    "fstat",
+    "getcwd",
+    "getenv",
+    "infile",
+    "isatty",
+    "lalloc",
+    "lemarque",
+    "lfree",
+    "libft",
+    "malloc",
+    "minishell",
+    "nstr",
+    "opendir",
+    "outfile",
+    "perror",
+    "philo",
+    "pipex",
+    "readdir",
+    "readline",
+    "rebonus",
+    "reseta",
+    "sigaction",
+    "strerror",
+    "struct",
+    "Subshells",
+    "sudoku",
+    "tcgetattr",
+    "tcsetattr",
+    "tgetent",
+    "tgetflag",
+    "tgetnum",
+    "tgetstr",
+    "tgoto",
+    "tputs",
+    "ttyname",
+    "ttyslot",
+    "waitpid",
+    "Werror",
+    "Wextra",
+    "zesh"
+  ],
+  "cSpell.language": "en,pt,pt-BR",
+  "remote.SSH.remotePlatform": {
+    "codeserver.42sp.org.br": "linux"
+  },
+  "editor.bracketPairColorization.enabled": true,
+  "editor.formatOnSave": true,
+  "prettier.enable": true,
+  // "editor.lineHeight": 24,
+  "liveServer.settings.donotVerifyTags": true,
+  "liveServer.settings.donotShowInfoMsg": true,
+  "workbench.startupEditor": "none",
+  "vscode-edge-devtools.mirrorEdits": true,
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "terminal.external.windowsExec": "C:\\Users\\edmar\\AppData\\Local\\Microsoft\\WindowsApps\\Microsoft.PowerShell_8wekyb3d8bbwe\\pwsh.exe",
+  "editor.insertSpaces": true,
+  "editor.tokenColorCustomizations": {
+    "textMateRules": [
+      {
+        "name": "One Dark italic",
+        "scope": [
+          "comment",
+          "entity.other.attribute-name",
+          "keyword",
+          "markup.underline.link",
+          "storage.modifier",
+          "storage.type",
+          "string.url",
+          "variable.language.super",
+          "variable.language.this"
+        ],
+        "settings": {
+          "fontStyle": "italic"
+        }
+      },
+      {
+        "name": "One Dark italic reset",
+        "scope": [
+          "keyword.operator",
+          "keyword.other.type",
+          "storage.modifier.import",
+          "storage.modifier.package",
+          "storage.type.built-in",
+          "storage.type.function.arrow",
+          "storage.type.generic",
+          "storage.type.java",
+          "storage.type.primitive"
+        ],
+        "settings": {
+          "fontStyle": ""
+        }
+      }
+    ]
+  },
+  "code-runner.clearPreviousOutput": true,
+  "notebook.output.textLineLimit": 100,
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "editor.minimap.enabled": false,
+  "workbench.iconTheme": "material-icon-theme",
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "workbench.colorTheme": "Dracula"
+}
